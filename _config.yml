@@ -1,123 +1,128 @@
-#
-# Awesome App Landing Page Config
-#
+#page title
+page_title                                : WorthTracker
 
-# Be sure all REQUIRED fields are filled out!
+# App Info
+ios_app_id                                : 1517288542  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
-#
-# General App Info
-#
-app:
-  name: WorthTracker # REQUIRED - Enter your app name
-  ios_id: 1517288542 # REQUIRED - 10 Digit Numeric App ID (lookup in iTunes Connect)
-  android_id: com.applitom.worthtracker # Optional - Enter Android app id like: com.example.app
+appstore_link                             : # Automatically populates if not set and if iOS app ID is set. Otherwise enter manually.
+playstore_link                            : https://play.google.com/store/apps/details?id=com.applitom.worthtracker
+presskit_download_link                    : http://applitom.com/#contact
 
-  icon: # Leave blank to auto-magically populate
-  # To update use path relative to project root with no leading slash:
-  # e.g. images/app-icon-512.png
-  # 512px or greater, square
+app_icon                                  : assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_name                                  : WorthTracker
+app_price                                 : Track your net worth
+app_description                           : WorthTracker makes it easy to track your net worth.
 
-  #favicon: # uncomment if uploading own favicon
-  # To update use path relative to project root with no leading slash:
-  # e.g. images/app-favicon.png - can be .ico or .png
-  # 16px or greater, square
-
-  screenshot: "."  # Leave blank to auto-magically populate
-  # To update use path relative to project root with no leading slash:
-  # e.g. images/app-screen-640x1136.png
-  # 640x1136px
-
-  #video: # uncomment if prefer to show a video preview in the screen instead of image
-  # To update use path relative to project root with no leading slash:
-  # e.g. images/app-preview.mp4
-  # 640x1136px
-
-  #app_twitter: # uncomment if the app has a twitter account "@my-awesome-app"
-  #creator_twitter: # uncomment if creator has a twitter account "@awesome-dev"
-  #social_image: # uncomment and add an image - defaults to icon
-  # This will show up when your url is shared on sites like facebook and twitter
-  # To update use path relative to project root with no leading slash:
-  # e.g. images/app-social_image.png
-  # 512px or greater, square or width = 2X height
-#
-# Marketing
-#
-marketing_header: Track your net worth
-marketing_desc: "WorthTracker makes it easy for you to track your net worth.
-
-Enter all of your assets such as real estate, banking accounts, stock portfolio, etc., and don't forget to enter everything you owe as well, such as loans and mortgages.
+enable_smart_app_banner                   : true                                      # Set to true to show a smart app banner at top of page on mobile devices.
 
 
-Keep your portfolio updated over time, and WorthTracker will help you to see your progress to your financial independence goals with visualization of your progress, and asset allocations graphs."
 
-#
-# Social Links
-#
-# Includes an icon for each username you enter
-#
-social-links:
-  github:
-  facebook: WorthTracker
-  twitter: WorthTracker
-  pinterest:
-  instagram: WorthTracker
-  email: applitom@gmail.com
-  youtube: # channel/<your_long_string> or <user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+# Information About Yourself
+your_name                                 : Applitom                                
+your_link                                 : http://applitom.com                     
+your_city                                 : 
+email_address                             : applitom@gmail.com
+facebook_username                         : worthtracker                                          
+instagram_username                        : worthtracker
+twitter_username                          : worthtracker
+github_username                           : 
+youtube_username                          :
 
-#
-# Enable/Disable Features & Page Elements
-#
-enable:
-  app_icon: true
-  smart_app_banner: true
 
-#
-# Device
-#
-# Available devices:
-# * iphone-se-silver-vertical
-# * iphone-se-space-gray-vertical
-# * ipod-touch-blue-vertical
-#
-device: worthtracker_screenshot # REQUIRED
 
-#
+# Feature List                            Edit, add or remove features to be presented.
+features                                  : 
+
+  - title                                 : Calculate your total net worth
+    description                           : WorthTracker makes it easy for you to track your net worth.
+    fontawesome_icon_name                 : coins
+
+  - title                                 : Track & Manage assets
+    description                           : Manage all of your asset types such as real estate, banking accounts, stock portfolio, etc.
+    fontawesome_icon_name                 : plus
+
+  - title                                 : Track & Manage liabilities
+    description                           : Don't forget to track everything you owe as well, such as loans and mortgages.
+    fontawesome_icon_name                 : minus
+
+  - title                                 : Keep Historic Data
+    description                           : Keep your portfolio updated over time, and WorthTracker will help you to see your progress over time.
+    fontawesome_icon_name                 : database
+
+  - title                                 : Your net worth visualizations
+    description                           : See visualizations and progress graph of your net worth
+    fontawesome_icon_name                 : chart-line
+
+  - title                                 : Back up
+    description                           : Your data is backed up and synced across all of your devices
+    fontawesome_icon_name                 : sync
+
+  - title                                 : # New Feature Title
+    description                           : # New Feature Description
+    fontawesome_icon_name                 : # Enter Font Awesome icon name (e.g. star). Find icons on fontawesome.com/icons.
+
+
+
 # Theme Settings
-#
-background_color: "#000000" # Optional
-background_image: /images/backgrounds/abstractbg.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
-text_color: white # Optional
-link_color: # Optional
-social_link_color: white # Optional
-download_button_background_color: black # Optional
-download_button_text_color: white; # Optional
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.2
+topbar_title_color                        : "#ffffff"
 
-#
-# Site Info
-#
-# If you want specific meta info for your <head></head> tags
-#
-title: WorthTracker # Optional - Enter your site title
-description: Track your net worth
+cover_image                               : assets/headerimage.jpg                    # Replace with alternative image path or image URL.
+cover_overlay_color                       : "#363b3d"
+cover_overlay_transparency                : 0.8
 
-#
-# Google Analytics
-#
-google_analytics: UA-32015603-2
+device_color                              : black                                     # Set to: blue, black, yellow, coral or white.
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+body_background_color                     : "#ffffff"
 
-# The release of Awesome App Landing Page that you're using
-version: v1.0
+link_color                                : "#1d63ea"
+
+app_title_color                           : "#ffffff"
+app_price_color                           : "#ffffff"
+app_description_color                     : "#ffffff"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#1d63ea"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Exclude these files from your production _site
 exclude:
   - LICENSE
   - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
