@@ -6,6 +6,10 @@ include_in_header: true
 
 # Changelog
 
+### **Version 2021.1**
+Starting the new year with a big update!
+This version introduces an improved, more informative account screen with a completely new user experience. Check it out!
+
 ### **Version 2020.14**
 This version contains Performance improvements and Bug fixes
 
