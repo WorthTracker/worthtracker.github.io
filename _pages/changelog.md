@@ -6,6 +6,13 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.2
+##### Released on Jan 23, 2021
+
+This version introduces more interactive and improved trend graphs.
+For your convenience, You can now select and customize the graph period and see the trend for multiple periods.
+This will allow you to better track your net worth!
+
 ## Version 2021.1  
 ##### Released on Jan 1, 2021
 
