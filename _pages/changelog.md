@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.3
+##### Released on Feb 20, 2021
+
+Stability improvements and small UI improvements in the Asst/Liability allocation chart.
+
 ## Version 2021.2
 ##### Released on Jan 23, 2021
 
