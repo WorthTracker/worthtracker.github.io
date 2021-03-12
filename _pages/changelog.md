@@ -6,6 +6,15 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.4
+##### Released on Mar 12, 2021
+
+This version contains a variety of updates:
+- We simplified the way of adding new assets and liabilities.
+- Now you can contact us easily from the account screen.
+- You can now see what's new from the account screen.
+- Stability improvements and bug fixes.
+
 ## Version 2021.3
 ##### Released on Feb 20, 2021
 
