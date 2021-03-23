@@ -1,0 +1,25 @@
+{
+    "faq":
+    [
+        {
+            "answer": "Your net worth is the total values of your assets minus all of your debt.\nThe displayed net worth is converted to your selected default currency.",
+            "question": "How is my net worth calculated?"
+        },
+        {
+            "answer": "You can add Assets or Liabilities from the main screen by tapping on the + button in the upper right corner.",
+            "question": "How do I add Asset or Liability?"
+        },
+        {
+            "answer": "Tap on the record you want to update from the home screen and click on the Update button.\n\nYou can also change the date to set the past value of an asset or liability.",
+            "question": "How do I update my assets and liabilities?"
+        },
+        {
+            "answer": "You can manage your types by navigating to Account -> Manage Asset/Liability Types. Keep in mind that you can't delete the types that already in use.",
+            "question": "How do I Add or Delete Asset or Liability types?"
+        },
+        {
+            "answer": "Make sure you have an internet connection and you are logged in with the right user with the right provider.\nWe currently support Google Sign-In and Apple Sign-In (iOS Only).\n\nIf you still don't see your data, you can try and recover it from the data recovery screen under the Troubleshooting section of this screen.",
+            "question": "I Don't see my data! Why?"
+        }
+    ]
+}
