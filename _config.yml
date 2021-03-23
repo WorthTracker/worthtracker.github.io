@@ -119,6 +119,8 @@ exclude:
   - README.md
   - CNAME
 
+keep_files: /api
+
 collections:
   pages:
     output: true
