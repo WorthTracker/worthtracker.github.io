@@ -20,6 +20,10 @@
         {
             "answer": "Make sure you have an internet connection and you are logged in with the right user with the right provider.\nWe currently support Google Sign-In and Apple Sign-In (iOS Only).\n\nIf you still don't see your data, you can try and recover it from the data recovery screen under the Troubleshooting section of this screen.",
             "question": "I Don't see my data! Why?"
-        }
+        },
+        {
+            "answer": "New answer testing",
+            "question": "New question testing?"
+        }        
     ]
 }
