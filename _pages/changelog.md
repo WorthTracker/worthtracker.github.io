@@ -6,6 +6,13 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.5
+##### Released on Apr 01, 2021
+
+- Critical bug fix: Blank home screen
+- Stability improvements and bug fixes.
+- New support screen
+
 ## Version 2021.4
 ##### Released on Mar 12, 2021
 
