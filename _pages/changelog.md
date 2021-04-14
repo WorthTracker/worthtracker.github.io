@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.6
+##### Released on Apr 14, 2021
+
+- Option to sort your assets and liabilities by type
+- Bug fixes
+
 ## Version 2021.5
 ##### Released on Apr 01, 2021
 
