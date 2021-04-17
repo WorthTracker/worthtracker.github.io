@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.7
+##### Released on Apr 17, 2021
+
+This version contains bug fixes and stability improvements while working offline.
+
 ## Version 2021.6
 ##### Released on Apr 14, 2021
 
