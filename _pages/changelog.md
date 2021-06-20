@@ -6,6 +6,13 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.9
+##### Released on Jun 20, 2021
+
+Finally! This version introduces a new way to see your net worth and accounts value along the time. 
+Tap on a specific point the time trend graph to see specific date net worth. You can do the same from any account screen to see the account value at any point in time.
+This version also includes stability improvements and a more stable exchange rate system.
+
 ## Version 2021.8
 ##### Released on May 16, 2021
 
