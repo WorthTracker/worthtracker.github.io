@@ -6,6 +6,15 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.10
+##### Released on Jul 10, 2021
+
+This version comes with one of your popular feature requests - Account Types Filter!
+By using filters, You can see your net worth by accounts types. It allows you to better track your net worth of specific sectors.
+
+This version includes also:
+- Fixed a bug when loading exchange rates on app launch after the user logged out.
+
 ## Version 2021.9
 ##### Released on Jun 20, 2021
 
