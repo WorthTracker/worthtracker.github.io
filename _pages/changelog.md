@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.11
+##### Released on Aug 01, 2021
+
+- Added an option choose to see Pie Charts values in summarising or percentage.
+- Fixed a bug when values in the Asset - Liabilities allocation graph are represented based on the nominal values.
+
 ## Version 2021.10
 ##### Released on Jul 10, 2021
 
