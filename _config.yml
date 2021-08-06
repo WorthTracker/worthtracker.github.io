@@ -1,5 +1,5 @@
 #page title
-page_title                                : WorthTracker
+page_title                                : WorthTracker - Track your net worth
 
 # App Info
 ios_app_id                                : 1517288542  # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
