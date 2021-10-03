@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.12
+##### Released on Oct 03, 2021
+
+In this version, we added one of the most requested features - Passcode lock with Biometric authentication support.
+Our Pro users can now set a passcode lock to protect their data. Face and Touch ID can also be used for authentication.
+
 ## Version 2021.11
 ##### Released on Aug 01, 2021
 
