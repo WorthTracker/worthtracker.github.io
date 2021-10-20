@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.13
+##### Released on Oct 20, 2021
+
+In this version, we added the What's New dialog to keep you always updated with the new features we bring each version.
+
 ## Version 2021.12
 ##### Released on Oct 03, 2021
 
