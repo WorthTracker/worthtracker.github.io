@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.14
+##### Released on Dec 02, 2021
+
+In this version, we introduce a brand new way to analyze your net worth. Insights!
+You can now get smart insights on your net worth - Check out the new Insights tab.
+
 ## Version 2021.13
 ##### Released on Oct 20, 2021
 
