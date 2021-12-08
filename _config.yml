@@ -53,6 +53,14 @@ features                                  :
     description                           : See visualizations and progress graph of your net worth
     fontawesome_icon_name                 : chart-line
 
+  - title                                 : See Insights
+    description                           : Get smart insights on your net worth.
+    fontawesome_icon_name                 : lightbulb
+
+  - title                                 : Back up
+    description                           : Your data is backed up and synced across all of your devices
+    fontawesome_icon_name                 : sync
+    
   - title                                 : Back up
     description                           : Your data is backed up and synced across all of your devices
     fontawesome_icon_name                 : sync
