@@ -33,23 +33,23 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  : 
 
-  - title                                 : Calculate your total net worth
-    description                           : WorthTracker makes it easy for you to track your net worth.
+  - title                                 : Net Worth Tracker
+    description                           : Simply track your total net worth with WorthTracker
     fontawesome_icon_name                 : coins
 
-  - title                                 : Track & Manage assets
+  - title                                 : Track & Manage Assets
     description                           : Manage all of your asset types such as real estate, banking accounts, stock portfolio, etc.
     fontawesome_icon_name                 : plus
 
-  - title                                 : Track & Manage liabilities
-    description                           : Don't forget to track everything you owe as well, such as loans and mortgages.
+  - title                                 : Track & Manage Liabilities
+    description                           : Track everything you owe as well, such as loans and mortgages and etc.
     fontawesome_icon_name                 : minus
 
-  - title                                 : Keep Historic Data
+  - title                                 : Keep Historical Data
     description                           : Keep your portfolio updated over time, and WorthTracker will help you to see your progress over time.
     fontawesome_icon_name                 : database
 
-  - title                                 : Your net worth visualizations
+  - title                                 : Net Worth Visualizations
     description                           : See visualizations and progress graph of your net worth
     fontawesome_icon_name                 : chart-line
 
@@ -57,13 +57,17 @@ features                                  :
     description                           : Get smart insights on your net worth.
     fontawesome_icon_name                 : lightbulb
 
-  - title                                 : Back up
+  - title                                 : Back Up
     description                           : Your data is backed up and synced across all of your devices
     fontawesome_icon_name                 : sync
-    
-  - title                                 : Back up
-    description                           : Your data is backed up and synced across all of your devices
-    fontawesome_icon_name                 : sync
+  
+  - title                                 : No spreadsheets anymore
+    description                           : Gid rid of your net worth spreadsheets, Simply track and manage your net worth with your mobile phone.
+    fontawesome_icon_name                 : mobile-alt
+
+  - title                                 : No private accounts access
+    description                           : WorthTracker doesn't need any access to your private accounts such as Banks, Brokers and etc.
+    fontawesome_icon_name                 : unlink
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
