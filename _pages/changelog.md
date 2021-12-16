@@ -6,6 +6,15 @@ include_in_header: true
 
 # What's New
 
+## Version 2021.15
+##### Released on Dec 16, 2021
+
+This version contains improvements and bug fixes
+- Fixed - Passcode screen looks bad on big tablet screens.
+- Fixed - Cant set value with fractions starting with zero.
+- Improved - When no value is set, new Asset/Liability will start with zero.
+- Improved - When deleting the last record of an account, you will be offered to archive or delete the account automatically.
+
 ## Version 2021.14
 ##### Released on Dec 02, 2021
 
