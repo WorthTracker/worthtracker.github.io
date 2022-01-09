@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2022.1
+##### Released on Jan 09, 2022
+
+- UI Fixes and improvements when scrolling in the net worth screen.
+- Added option to delete account from the account screen.
+
 ## Version 2021.15
 ##### Released on Dec 16, 2021
 
