@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2022.2
+##### Released on Jan 18, 2022
+
+In this version, we improved the currencies picker so you now can select the most used currency more conveniently.
+Also in this version, bug fixes and performance improvements.
+
 ## Version 2022.1
 ##### Released on Jan 09, 2022
 
