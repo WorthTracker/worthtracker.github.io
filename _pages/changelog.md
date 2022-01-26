@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2022.3
+##### Released on Jan 27, 2022
+
+In this version, we added Reminders.
+Get reminded to update your net worth. Go to the Account tab to configure Reminders.
+
 ## Version 2022.2
 ##### Released on Jan 18, 2022
 
