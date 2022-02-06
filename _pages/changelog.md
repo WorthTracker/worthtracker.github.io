@@ -6,6 +6,15 @@ include_in_header: true
 
 # What's New
 
+## Version 2022.4
+##### Released on Feb 06, 2022
+
+- You can now set a profile picture. Go to the Profile screen under the Account tab.
+- Fixed bug where missing midnight hour in the Reminders settings.
+- Improved App startup experience.
+- Bug fixes and performance improvements.
+
+
 ## Version 2022.3
 ##### Released on Jan 27, 2022
 
