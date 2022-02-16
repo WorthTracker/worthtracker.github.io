@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2022.5
+##### Released on Feb 16, 2022
+
+In this version, we added Export to CSV, you can now Export your net worth data to CSV File.
+
 ## Version 2022.4
 ##### Released on Feb 06, 2022
 
