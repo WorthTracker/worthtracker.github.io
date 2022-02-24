@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2022.6
+##### Released on Feb 24, 2022
+
+- New Filters, You can now filter archived records and also show only assets or liabilities.
+- UI Improvements in actions menu for better experience on big screens.
+
 ## Version 2022.5
 ##### Released on Feb 16, 2022
 
