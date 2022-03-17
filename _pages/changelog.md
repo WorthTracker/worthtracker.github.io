@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2022.7
+##### Released on Mar 17, 2022
+
+This version contains mostly under-the-hood stability improvements and bug fixes. We also did some small UI Improvements so the app looks even sleeker.
+
 ## Version 2022.6
 ##### Released on Feb 24, 2022
 
