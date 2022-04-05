@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2022.8
+##### Released on Apr 05, 2022
+
+Tablet Support! The app now takes better advantage of the Tablet's bigger screen.
+
 ## Version 2022.7
 ##### Released on Mar 17, 2022
 
