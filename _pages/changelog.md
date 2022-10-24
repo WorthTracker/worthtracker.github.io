@@ -6,6 +6,13 @@ include_in_header: true
 
 # What's New
 
+## Version 2022.9
+##### Released on Oct 24, 2022
+
+This version contains mostly under-the-hood stability improvements and bug fixes. 
+- [New] Better UI indication when filters are applied.
+- [Fixed] Basic users can't reset previous filters.
+
 ## Version 2022.8
 ##### Released on Apr 05, 2022
 
