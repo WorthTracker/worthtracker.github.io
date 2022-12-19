@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2022.10
+##### Released on Dec 19, 2022
+
+You can now see the amount and percentage changes in the value history list.
+This version also contains under-the-hood stability and performance improvements. 
+
 ## Version 2022.9
 ##### Released on Oct 24, 2022
 
