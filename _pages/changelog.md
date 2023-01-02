@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2023.1
+##### Released on Jan 02, 2023
+
+[New] Choose how to calculate the percentages displayed on your assets list.
+[Bug Fix] The current quarter is missing from the Insights graphs.
+
 ## Version 2022.10
 ##### Released on Dec 19, 2022
 
