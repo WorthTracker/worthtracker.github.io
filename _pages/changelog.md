@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2023.2
+##### Released on Jan 11, 2023
+
+In this version, we added more sort-by options and also made some UI improvements.
+
 ## Version 2023.1
 ##### Released on Jan 02, 2023
 
