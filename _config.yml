@@ -8,7 +8,7 @@ appstore_link                             : https://apps.apple.com/app/apple-sto
 playstore_link                            : https://play.google.com/store/apps/details?id=com.applitom.worthtracker
 presskit_download_link                    : http://applitom.com/#contact
 
-app_icon                                  : assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
+app_icon                                  : assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually
 app_name                                  : WorthTracker
 app_price                                 : Track your net worth
 app_description                           : WorthTracker makes it easy to track your net worth.
