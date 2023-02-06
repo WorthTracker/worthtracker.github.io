@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2023.3
+##### Released on Feb 06, 2023
+
+- New! You can now choose various graph periods in the Insights screen.
+- Bug fixes.
+
 ## Version 2023.2
 ##### Released on Jan 11, 2023
 
