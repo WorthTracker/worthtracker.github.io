@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2023.4
+##### Released on Feb 16, 2023
+
+Allocations Insights - See how your net worth has been distributed across different asset classes over time.
+
 ## Version 2023.3
 ##### Released on Feb 06, 2023
 
