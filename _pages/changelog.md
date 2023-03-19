@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2023.5
+##### Released on Mar 19, 2023
+
+Bug fixes and infrastructure improvements for a smoother app experience.
+
 ## Version 2023.4
 ##### Released on Feb 16, 2023
 
