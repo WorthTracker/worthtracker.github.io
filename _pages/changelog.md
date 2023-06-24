@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2023.6
+##### Released on Jun 24, 2023
+
+- Introducing Filters for the Insight screen! Easily refine and analyze your data with a wide range of options, uncovering valuable trends and patterns.
+- Bug fixes, performance improvements, and general stability enhancements for a smoother and more reliable app experience.
+
 ## Version 2023.5
 ##### Released on Mar 19, 2023
 
