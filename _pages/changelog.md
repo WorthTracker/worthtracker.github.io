@@ -6,6 +6,13 @@ include_in_header: true
 
 # What's New
 
+## Version 2023.8
+##### Released on Jul 31, 2023
+
+- Enhanced Onboarding Experience for a smoother start.
+- Set Initial Value with Specific Date when adding new assets or liabilities.
+- Bug fixes and improvements for a seamless experience.
+
 ## Version 2023.7
 ##### Released on Jul 08, 2023
 
