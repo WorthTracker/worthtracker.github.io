@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2023.9
+##### Released on Oct 15, 2023
+
+- Bug fixes and infrastructure improvements for a smoother app experience.
+
 ## Version 2023.8
 ##### Released on Jul 31, 2023
 
@@ -27,12 +32,12 @@ include_in_header: true
 ## Version 2023.5
 ##### Released on Mar 19, 2023
 
-Bug fixes and infrastructure improvements for a smoother app experience.
+- Bug fixes and infrastructure improvements for a smoother app experience.
 
 ## Version 2023.4
 ##### Released on Feb 16, 2023
 
-Allocations Insights - See how your net worth has been distributed across different asset classes over time.
+- Allocations Insights - See how your net worth has been distributed across different asset classes over time.
 
 ## Version 2023.3
 ##### Released on Feb 06, 2023
@@ -43,7 +48,7 @@ Allocations Insights - See how your net worth has been distributed across differ
 ## Version 2023.2
 ##### Released on Jan 11, 2023
 
-In this version, we added more sort-by options and also made some UI improvements.
+- In this version, we added more sort-by options and also made some UI improvements.
 
 ## Version 2023.1
 ##### Released on Jan 02, 2023
