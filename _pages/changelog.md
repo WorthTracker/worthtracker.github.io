@@ -5,6 +5,11 @@ include_in_header: true
 ---
 
 # What's New
+
+## Version 2024.1
+##### Released on Mar 26, 2024
+This update includes behind-the-scenes improvements for better performance and reliability.
+
 ## Version 2023.10
 ##### Released on Nov 19, 2023
 
