@@ -133,6 +133,7 @@ exclude:
 
 keep_files:
   - api/
+  - accountdeletion/
 
 collections:
   pages:
