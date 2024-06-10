@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2024.3
+##### Released on Jun 10, 2024
+We've fine-tuned the UI behind the scenes to ensure a smoother and more responsive experience
+
 ## Version 2024.2
 ##### Released on Apr 27, 2024
 We've polished the app with upgraded frameworks and some UI enhancements for an even smoother experience.
