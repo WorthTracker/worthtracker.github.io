@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2024.4
+##### Released on Jul 20, 2024
+In this update, we've improved the dialog messages throughout the app, delivering a more intuitive and visually appealing user experience.
+
 ## Version 2024.3
 ##### Released on Jun 10, 2024
 We've fine-tuned the UI behind the scenes to ensure a smoother and more responsive experience
