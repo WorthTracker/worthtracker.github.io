@@ -6,6 +6,13 @@ include_in_header: true
 
 # What's New
 
+## Version 2024.5
+##### Released on Jul 31, 2024
+- Bug Fixes - Improved reliability and performance.
+- YTD Data - View Year-to-Date data in graphs.
+- Holdings Value - Display holdings in default or original currency.
+- Trend Graph - Adaptive axis for better visualization.
+
 ## Version 2024.4
 ##### Released on Jul 20, 2024
 In this update, we've improved the dialog messages throughout the app, delivering a more intuitive and visually appealing user experience.
