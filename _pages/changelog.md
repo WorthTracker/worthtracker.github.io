@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2024.6
+##### Released on Aug 18, 2024
+Redesigned and enhanced the Manage Types screen to provide a more seamless and user-friendly experience.
+
 ## Version 2024.5
 ##### Released on Jul 31, 2024
 - Bug Fixes - Improved reliability and performance.
