@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2024.7
+##### Released on Sep 24, 2024
+Optimized app for better performance, stability, and security, and resolved an issue with Google Sign-In.
+
 ## Version 2024.6
 ##### Released on Aug 18, 2024
 Redesigned and enhanced the Manage Types screen to provide a more seamless and user-friendly experience.
