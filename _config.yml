@@ -134,6 +134,7 @@ exclude:
 keep_files:
   - api/
   - accountdeletion/
+  - audio/
 
 collections:
   pages:
