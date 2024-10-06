@@ -6,6 +6,13 @@ include_in_header: true
 
 # What's New
 
+## Version 2024.8
+##### Released on Oct 6, 2024
+We've improved the UI for a more streamlined filter experience, and added the option to filter "out" data for enhanced customization.
+
+This update also includes some minor fixes and performance improvements
+to ensure a smoother app experience.
+
 ## Version 2024.7
 ##### Released on Sep 24, 2024
 Optimized app for better performance, stability, and security, and resolved an issue with Google Sign-In.
