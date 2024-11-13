@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2024.9
+##### Released on Nov 13, 2024
+Introducing Tags! Now you can add custom tags to your holdings for better organization and flexibility. 
+Use default tags or create your own to categorize and filter your portfolio exactly the way you want.
+
 ## Version 2024.8
 ##### Released on Oct 6, 2024
 We've improved the UI for a more streamlined filter experience, and added the option to filter "out" data for enhanced customization.
