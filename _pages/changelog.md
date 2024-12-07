@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2024.10
+##### Released on Dec 7, 2024
+- Share Your Net Worth: Easily create and share a visual snapshot of your net worth. Customize the appearance, choose what to include, and share it your way!
+- All-Time High in Holding Details: Check the peak value of any holding in the “More Details” section for better insights into your investments.
+
 ## Version 2024.9
 ##### Released on Nov 13, 2024
 Introducing Tags! Now you can add custom tags to your holdings for better organization and flexibility. 
