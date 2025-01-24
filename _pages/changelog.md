@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.1
+##### Released on Jan 24, 2025
+- Start Without an Account: You can now explore WorthTracker without creating an account. Get started quickly and sign up later if you want to save your data.
+- Bug Fixes: We’ve addressed a few issues to improve the app’s performance and make your experience smoother.
+
 ## Version 2024.10
 ##### Released on Dec 7, 2024
 - Share Your Net Worth: Easily create and share a visual snapshot of your net worth. Customize the appearance, choose what to include, and share it your way!
