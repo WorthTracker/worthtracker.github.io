@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.2
+##### Released on Feb 12, 2025
+Bug fixes and improvements.
+
 ## Version 2025.1
 ##### Released on Jan 24, 2025
 - Start Without an Account: You can now explore WorthTracker without creating an account. Get started quickly and sign up later if you want to save your data.
