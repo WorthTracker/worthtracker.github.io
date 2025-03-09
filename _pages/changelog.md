@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.3
+##### Released on Mar 9, 2025
+- Squashed some bugs to enhance stability and performance.
+- Improved overall experience with behind-the-scenes tweaks.
+
 ## Version 2025.2
 ##### Released on Feb 12, 2025
 Bug fixes and improvements.
