@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.4
+##### Released on Apr 26, 2025
+- Added YTD (Year-to-Date) data to holding screen widgets
+- Android users can now sign in with Apple
+- Various bug fixes and performance improvements
+
 ## Version 2025.3
 ##### Released on Mar 9, 2025
 - Squashed some bugs to enhance stability and performance.
