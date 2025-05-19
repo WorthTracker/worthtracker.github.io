@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.5
+##### Released on May 19, 2025
+Minor fixes and improvements to keep things running smoothly.
+
 ## Version 2025.4
 ##### Released on Apr 26, 2025
 - Added YTD (Year-to-Date) data to holding screen widgets
