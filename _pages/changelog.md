@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.6
+##### Released on Jun 18, 2025
+Bulk Update - You can now update all your holdings from one place, without switching screens. A faster, more efficient way to keep everything up to date.
+
 ## Version 2025.5
 ##### Released on May 19, 2025
 Minor fixes and improvements to keep things running smoothly.
