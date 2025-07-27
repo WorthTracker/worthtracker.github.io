@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.7
+##### Released on Jul 27, 2025
+We've redesigned the trend chart on the main screen for a smoother, clearer experience
+
 ## Version 2025.6
 ##### Released on Jun 18, 2025
 Bulk Update - You can now update all your holdings from one place, without switching screens. A faster, more efficient way to keep everything up to date.
