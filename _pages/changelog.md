@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.8
+##### Released on Aug 12, 2025
+- Redesigned trend charts for a smoother, clearer experience across the app
+- Bug fixes and small improvements
+
 ## Version 2025.7
 ##### Released on Jul 27, 2025
 We've redesigned the trend chart on the main screen for a smoother, clearer experience
