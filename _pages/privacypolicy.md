@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
-include_in_header: true
+include_in_header: false
 ---
 
 <meta http-equiv="refresh" content="0; url=https://worthtracker.com/privacy-policy.html">
