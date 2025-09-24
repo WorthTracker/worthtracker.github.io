@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.9
+##### Released on Sep 24, 2025
+More detailed trend graphs - See finer changes in your net worth over time.
+
 ## Version 2025.8
 ##### Released on Aug 12, 2025
 - Redesigned trend charts for a smoother, clearer experience across the app
