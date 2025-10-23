@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.10
+##### Released on Oct 23, 2025
+Bug fixes and performance improvements.
+
 ## Version 2025.9
 ##### Released on Sep 24, 2025
 More detailed trend graphs - See finer changes in your net worth over time.
