@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.11
+##### Released on Dec 13, 2025
+- You can now attach notes to value updates to remember important events and decisions.
+- You can also edit value history to correct mistakes or update past values.
+- This release also includes minor improvements and bug fixes.
+
 ## Version 2025.10
 ##### Released on Oct 23, 2025
 Bug fixes and performance improvements.
