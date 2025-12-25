@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2025.12
+##### Released on Dec 25, 2025
+Minor bug fixes and performance improvements
+
 ## Version 2025.11
 ##### Released on Dec 13, 2025
 - You can now attach notes to value updates to remember important events and decisions.
