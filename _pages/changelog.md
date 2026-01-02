@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.1
+##### Released on Jan 01, 2026
+Fixed a critical issue related to archived accounts
+
 ## Version 2025.12
 ##### Released on Dec 25, 2025
 Minor bug fixes and performance improvements
