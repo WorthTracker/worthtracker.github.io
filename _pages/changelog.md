@@ -5,6 +5,11 @@ include_in_header: true
 ---
 
 # What's New
+## Version 2026.2
+##### Released on Jan 30, 2026
+- You can now add notes when updating values using Bulk Update. 
+- This update also includes bug fixes and small improvements.
+
 
 ## Version 2026.1
 ##### Released on Jan 01, 2026
