@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.4
+##### Released on Feb 21, 2026
+Bug fixes and performance improvements.
+
 ## Version 2026.3
 ##### Released on Feb 13, 2026
 - Added Net Worth All-Time High (ATH) in Insights
