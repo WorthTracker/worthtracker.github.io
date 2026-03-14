@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.5
+##### Released on Mar 15, 2026
+- Bug fixes and performance improvements
+- See how each holding has grown over time directly from the holding screen
+
 ## Version 2026.4
 ##### Released on Feb 21, 2026
 Bug fixes and performance improvements.
