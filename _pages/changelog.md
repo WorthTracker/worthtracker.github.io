@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.6
+##### Released on Mar 21, 2026
+Improved holding growth chart tooltip usability, holding screen UI refinements, and bug fixes.
+
 ## Version 2026.5
 ##### Released on Mar 15, 2026
 - Bug fixes and performance improvements
