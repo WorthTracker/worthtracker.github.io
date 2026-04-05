@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.7
+##### Released on Apr 05, 2026
+Improved the net worth changes graph in Insights for a clearer and more polished experience.
+
 ## Version 2026.6
 ##### Released on Mar 21, 2026
 Improved holding growth chart tooltip usability, holding screen UI refinements, and bug fixes.
