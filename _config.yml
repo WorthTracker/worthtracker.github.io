@@ -6,7 +6,7 @@ ios_app_id                                : 1517288542  # Required. Enter iOS ap
 
 appstore_link                             : https://apps.apple.com/app/apple-store/id1517288542?pt=353945&ct=landingpage&mt=8
 playstore_link                            : https://play.google.com/store/apps/details?id=com.applitom.worthtracker
-presskit_download_link                    : http://applitom.com/#contact
+presskit_download_link                    : https://applitom.com/#contact
 
 app_icon                                  : assets/appicon.png # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
 app_name                                  : WorthTracker
@@ -19,7 +19,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Applitom                                
-your_link                                 : http://applitom.com                     
+your_link                                 : https://applitom.com                     
 your_city                                 : 
 email_address                             : worthtrackerapp@gmail.com
 facebook_username                         : worthtracker                                          
