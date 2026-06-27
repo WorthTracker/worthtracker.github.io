@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.8
+##### Released on Jun 27, 2026
+**Goals are here**<br>
+Create net worth goals and track your progress inside WorthTracker. See how far you’ve come, what’s left, and stay motivated on your journey.
+
 ## Version 2026.7
 ##### Released on Apr 05, 2026
 Improved the net worth changes graph in Insights for a clearer and more polished experience.
