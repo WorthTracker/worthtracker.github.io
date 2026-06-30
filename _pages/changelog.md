@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.9
+##### Released on Jun 30, 2026
+Bug fixes and performance improvements
+
 ## Version 2026.8
 ##### Released on Jun 27, 2026
 **Goals are here**<br>
