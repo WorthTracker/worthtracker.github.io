@@ -6,6 +6,14 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.10
+##### Released on Jul 18, 2026
+Distribution Over Time just got clearer.
+- See how your assets and liabilities have changed over time, period by period
+- Tap any bar to view a complete breakdown for that point in time
+- Swipe through your history more easily
+- Enjoy smoother charts and a cleaner overall design
+
 ## Version 2026.9
 ##### Released on Jun 30, 2026
 Bug fixes and performance improvements
