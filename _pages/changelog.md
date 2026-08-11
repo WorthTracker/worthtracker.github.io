@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.11
+##### Released on Aug 11, 2026
+Bug fixes and improvements
+
 ## Version 2026.10
 ##### Released on Jul 18, 2026
 Distribution Over Time just got clearer.
