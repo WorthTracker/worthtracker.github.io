@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.12
+##### Released on Aug 23, 2026
+Fixed an issue where some chart data could appear on more than one page when browsing paged graphs in Insights and Holding growth.
+
 ## Version 2026.11
 ##### Released on Aug 11, 2026
 Bug fixes and improvements
