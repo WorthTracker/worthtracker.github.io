@@ -6,6 +6,10 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.13
+##### Released on Sep 5, 2026
+Improved exchange rate updates for a more accurate net worth.
+
 ## Version 2026.12
 ##### Released on Aug 23, 2026
 Fixed an issue where some chart data could appear on more than one page when browsing paged graphs in Insights and Holding growth.
