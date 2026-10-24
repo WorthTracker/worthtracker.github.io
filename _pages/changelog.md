@@ -6,6 +6,11 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.14
+##### Released on Oct 24, 2026
+- Goal Projections: estimate when you could reach a goal from your recent pace
+- Goal Breakdown: see what your progress is made of, by holding type
+
 ## Version 2026.13
 ##### Released on Sep 5, 2026
 Improved exchange rate updates for a more accurate net worth.
