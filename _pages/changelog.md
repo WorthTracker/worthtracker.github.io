@@ -6,6 +6,12 @@ include_in_header: true
 
 # What's New
 
+## Version 2026.15
+##### Released on Nov 16, 2026
+- Find currencies faster with search by name or code.
+- Enjoy clearer currency and asset/liability type selection.
+- Includes accessibility improvements, security updates, and bug fixes.
+
 ## Version 2026.14
 ##### Released on Oct 24, 2026
 - Goal Projections: estimate when you could reach a goal from your recent pace
